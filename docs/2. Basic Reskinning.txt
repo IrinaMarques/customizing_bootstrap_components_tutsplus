@@ -16,3 +16,23 @@ The card in version 4 meant to replace the panel the well and the thumbnail from
 .card-title - to style the title
 
 .img-fluid - resize the image to fit widthin it's container - it's the same as the img-responsive in version 3.
+
+=================================
+2.2 Stubborn Bootstrap Selectors
+=================================
+
+In the navbar:
+.navbar-dark
+.bg-inverse
+
+The anchor tags in the navbar:
+.nav-link
+
+To change the color on the nav-links:
+.navbar-dark .navbar-nav .nav-link { color: red; }
+
+We have to be so specific as bootstrap.
+
+We need to be sure that our rules are just so specific or more specific then bootstrap selectors.
+
+A trick is to inspect elements on the page with the dev tools. 

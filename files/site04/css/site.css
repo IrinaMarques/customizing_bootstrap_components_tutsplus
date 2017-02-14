@@ -1,0 +1,11 @@
+body { padding-top: 80px; }
+
+.card, .card-img-top {
+	border-radius: 0;
+}
+
+/* we have to be so specific as the bootstrap */
+.navbar-dark .navbar-nav .nav-link {
+	color: red;
+}
+
