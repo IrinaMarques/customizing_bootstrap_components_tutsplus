@@ -49,3 +49,16 @@ To get de CDN it's need to give the email.
 Restyle a bootstrap card.
 
 We remove the card-img-top and the card-title and added a font awesome icon outside the .card class. 
+
+======================
+2.4 Fonts and Buttons
+======================
+
+Related links:
+
+https://fonts.google.com/
+
+We modiffy the btn-card button.
+Center in the card, round it and give a border. 
+
+
