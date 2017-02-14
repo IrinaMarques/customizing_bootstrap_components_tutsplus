@@ -36,3 +36,16 @@ We have to be so specific as bootstrap.
 We need to be sure that our rules are just so specific or more specific then bootstrap selectors.
 
 A trick is to inspect elements on the page with the dev tools. 
+
+==========================
+2.3 Restructuring the HTML
+==========================
+
+Related links: 
+
+http://fontawesome.io/
+To get de CDN it's need to give the email.
+
+Restyle a bootstrap card.
+
+We remove the card-img-top and the card-title and added a font awesome icon outside the .card class. 
