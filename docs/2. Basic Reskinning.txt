@@ -61,4 +61,16 @@ https://fonts.google.com/
 We modiffy the btn-card button.
 Center in the card, round it and give a border. 
 
+=======================
+2.5 Finishing the card
+=======================
+
+Center the icon inside the icon button.
+Change the hover style.
+Give a animate property to the background color of the button.
+
+Aplly the styles to all cards.
+
+
+
 
