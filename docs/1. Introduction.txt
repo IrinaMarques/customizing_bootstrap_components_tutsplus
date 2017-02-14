@@ -1,0 +1,15 @@
+============================
+1.2 Downloading Bootstrap 4
+============================
+
+Related links:
+https://getbootstrap.com/
+
+http://v4-alpha.getbootstrap.com/
+
+https://code.jquery.com/
+
+We download Bootstrap 4 then > dist 
+Copy the js and css files and paste them into our project.
+
+Then we start creating our document and get to the jQuery page to get the latest CDN.
