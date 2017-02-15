@@ -37,3 +37,11 @@ The three buttons have the same id of #myModal.
 We need jQuery and JavaScript.
 
 We create a var in the script tag.
+
+=======================================
+4.5 Injecting HTML Content With jQuery
+=======================================
+
+In bootstrap 3 the class hidden is now in bootstrap 4 the class invisible
+
+
