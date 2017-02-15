@@ -1,0 +1,17 @@
+===================
+3.1 Dorpdown Hover
+===================
+
+- Customize the styling and the functionality of a dorpdown list.
+- Navbar + dropdown 
+
+- We don't need to click on the dropdown to see it's hover. Just pass the mouse.
+
+.navbar-dark - detects how the text will be like, dark background text lighter.
+.bg-primary - determines the background color
+
+.dropdown
+.dropdown-toggle
+.dropdown-menu
+.dropdown-item
+ 

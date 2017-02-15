@@ -1,0 +1,27 @@
+body {
+	padding-top: 10px;
+}
+
+/* change the background color of the list */
+.dropdown-menu {
+	background-color: #56abf5;
+	/* we take the margin so the menu don't disapear */
+	margin-top: 0;
+}
+
+/* the text white */
+.dropdown-menu .dropdown-item {
+	color: #fff;
+}
+
+/*the hover effect */
+.dropdown-menu .dropdown-item:hover {
+	background-color: #badfff;
+	color: #0275d8;
+}
+
+/* when we hover over the list item with the class of dropdown the menu inside show up */ 
+/* between the two items it was a margin that makes disapear the menu */
+.dropdown:hover .dropdown-menu {
+	display: block;
+} 
