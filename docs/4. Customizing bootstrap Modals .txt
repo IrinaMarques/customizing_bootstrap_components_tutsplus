@@ -21,3 +21,19 @@ Change the color os the backdrop.
 
 .modal-backdrop
 .modal-backdrop.in
+
+=================
+4.3 Modal Colors
+=================
+
+Style the modal-header and the modal-footer.
+
+================================
+4.4 Modals With Dynamic Content
+================================
+
+The three buttons have the same id of #myModal.
+
+We need jQuery and JavaScript.
+
+We create a var in the script tag.
