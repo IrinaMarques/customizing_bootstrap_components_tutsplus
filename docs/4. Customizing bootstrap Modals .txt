@@ -44,4 +44,14 @@ We create a var in the script tag.
 
 In bootstrap 3 the class hidden is now in bootstrap 4 the class invisible
 
+=================
+4.6 Click Events
+=================
+
+Creating three modal with variables.
+
+===================================
+4.7 Creating and Resetting Options
+===================================
+
 
