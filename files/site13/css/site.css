@@ -1,0 +1,10 @@
+body { padding: 20px; }
+
+/*with the dev tools we see the drop back */
+.modal-backdrop {
+	background-color: #005;
+}
+
+.modal-backdrop.in {
+	opacity: 0.8;
+}

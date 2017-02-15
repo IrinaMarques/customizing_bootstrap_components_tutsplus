@@ -1,0 +1,23 @@
+=========================
+4.1 Size and Positioning
+=========================
+
+- Customize the look and the functionality of the modal
+- Modal its a pop-up on the webpage
+- Use to warning about a decision or to collect information
+
+.modal
+.modal-dialog - contains all content inside de modal box
+.modal-content
+.modal-header: button to close the modal and the .modal-title
+.modal-body
+.modal-footer
+
+============================
+4.2 Recoloring the Backdrop
+============================
+
+Change the color os the backdrop.
+
+.modal-backdrop
+.modal-backdrop.in
