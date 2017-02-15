@@ -15,3 +15,12 @@
 .dropdown-menu
 .dropdown-item
  
+===========================
+3.2 Multi-Column Dropdowns
+===========================
+
+Dropdown list that as two columns inside. 
+
+We can set as many columns we want, just have to change the width.
+
+In the columns we can add an image also.
