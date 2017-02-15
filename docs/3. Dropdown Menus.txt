@@ -24,3 +24,9 @@ Dropdown list that as two columns inside.
 We can set as many columns we want, just have to change the width.
 
 In the columns we can add an image also.
+
+========================
+3.3 Scrolling Dropdowns
+========================
+
+In the dropdown menu we set a max-height, then overflow to hidden and a overflow-y of auto. 

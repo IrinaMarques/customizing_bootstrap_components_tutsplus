@@ -1,0 +1,29 @@
+body {
+	padding-top: 10px;
+}
+
+.dropdown-menu {
+	background-color: #56abf5;
+	margin-top: 0;
+	/* to have a scrool bar */
+	max-height: 300px;
+	/* outside 300px will go to be hidden */
+	overflow: hidden;
+	/* set the scroll */
+	overflow-y: auto;
+}
+
+.dropdown-menu .dropdown-item {
+	color: #fff;
+	font-size: 0.9rem;
+}
+
+.dropdown-menu .dropdown-item:hover {
+	background-color: inherit;
+	color: #0275d8;
+}
+
+.dropdown:hover .dropdown-menu {
+	display: block;
+} 
+
