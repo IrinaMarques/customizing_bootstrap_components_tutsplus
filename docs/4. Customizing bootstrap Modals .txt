@@ -54,4 +54,8 @@ Creating three modal with variables.
 4.7 Creating and Resetting Options
 ===================================
 
+======================
+4.8 Multi-Step Modals
+======================
 
+Next setps modals.
